@@ -11,6 +11,8 @@
     - ### Bubble Sort
     - ### Insertion Sort
     - ### Heap Sort
+    - ### Quick Sort
+    - ### Merge Sort
 - ### General (7)
     - ### Shuffle Array
     - ### Prime Numbers
